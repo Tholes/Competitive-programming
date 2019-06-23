@@ -1,2 +1,1 @@
-# UVA
-Solucionario de algunos ejercicios de competencias de programación.
+Algunas de mis soluciones para ejercicios en jueces en línea.
