@@ -1,2 +1,2 @@
 # UVA
-Solucionario de algunos ejercicios de UVA online judge.
+Solucionario de algunos ejercicios de competencias de programación.
